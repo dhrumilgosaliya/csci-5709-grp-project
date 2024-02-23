@@ -7,6 +7,10 @@ import Home from './Components/Home';
 import AddObjective from './Components/AddObjective';
 import BasicPie from './Components/budget-planner/budget-planner';
 import Navbar from './Components/navbar/navbar';
+import WhatsNew from './Components/proversion/WhatsNew';
+// import Navbar from './components/Navbar'; Shreya's navbar
+import SubscriptionPlans from './Components/proversion/SubscriptionPlans';
+import PaymentForm from './Components/proversion/PaymentForm';
 
 function App() {
   return (
@@ -19,6 +23,9 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/add-objective" element={<AddObjective />} />
         <Route path="/budget-planner" element={<BasicPie />} />
+        <Route path="/whatsnew" element={<WhatsNew />} />
+        <Route path="/subscription-plans" element={<SubscriptionPlans />} />
+        <Route path="/checkout" element={<PaymentForm />} />
       </Routes>
     </div>
   );
