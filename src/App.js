@@ -13,6 +13,7 @@ import SubscriptionPlans from './Components/proversion/SubscriptionPlans';
 import PaymentForm from './Components/proversion/PaymentForm';
 import Contactus from './Components/contactus/Contactus';
 import Faq from './Components/faq/Faq';
+import LandingPage from "./Components/landing/LandingPage";
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
         <Route path="/faq" element={<Faq />} />
         <Route path="/subscription-plans" element={<SubscriptionPlans />} />
         <Route path="/checkout" element={<PaymentForm />} />
+        <Route path="/landingpage" element={<LandingPage />} />
       </Routes>
     </div>
   );
