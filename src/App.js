@@ -11,6 +11,8 @@ import WhatsNew from './Components/proversion/WhatsNew';
 // import Navbar from './components/Navbar'; Shreya's navbar
 import SubscriptionPlans from './Components/proversion/SubscriptionPlans';
 import PaymentForm from './Components/proversion/PaymentForm';
+import Contactus from './Components/contactus/Contactus';
+import Faq from './Components/faq/Faq';
 
 function App() {
   return (
@@ -24,6 +26,8 @@ function App() {
         <Route path="/add-objective" element={<AddObjective />} />
         <Route path="/budget-planner" element={<BasicPie />} />
         <Route path="/whatsnew" element={<WhatsNew />} />
+        <Route path="/contactus" element={<Contactus />} />
+        <Route path="/faq" element={<Faq />} />
         <Route path="/subscription-plans" element={<SubscriptionPlans />} />
         <Route path="/checkout" element={<PaymentForm />} />
       </Routes>
