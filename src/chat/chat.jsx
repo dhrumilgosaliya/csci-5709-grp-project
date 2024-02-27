@@ -10,7 +10,7 @@ function Chat() {
   const [location, setLocation] = useState(true);
 
   useEffect(() => {
-    // Send initial messages when the component mounts
+    // Send initial messages when component mounts 
     if (location) {
       sendMessage('Hello there! How may I help you?');
       setTimeout(() => sendMessage('What is my balance?'));
