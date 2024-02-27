@@ -1,4 +1,4 @@
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes, Navigate } from "react-router-dom";
 import AddExpense from "./Components/AddExpense";
 import './App.css';
 //import Home from './home'; Dhrumil home
@@ -23,7 +23,7 @@ function App() {
         <Route path="/addexpense" element={<AddExpense/>}/>
         {/*  home from Dhrumil <Route path="/home" exact Component={Home} /> */}
         <Route path="/chat" Component={Chat} />
-        <Route path="/" element={<Home />} />
+        <Route path="/okr" element={<Home />} />
         <Route path="/add-objective" element={<AddObjective />} />
         <Route path="/budget-planner" element={<BasicPie />} />
         <Route path="/whatsnew" element={<WhatsNew />} />
@@ -31,7 +31,8 @@ function App() {
         <Route path="/faq" element={<Faq />} />
         <Route path="/subscription-plans" element={<SubscriptionPlans />} />
         <Route path="/checkout" element={<PaymentForm />} />
-        <Route path="/landingpage" element={<LandingPage />} />
+        <Route path="/home" element={<LandingPage />} />
+        <Route path="*" element={<Navigate to="/home" replace />} />
       </Routes>
     </div>
   );
