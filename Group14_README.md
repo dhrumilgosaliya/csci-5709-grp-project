@@ -8,21 +8,21 @@
 * *Group 14 main branch Git URL*: <https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14.git>
 
 ## Group members GIT URLs
-* *Group 14 Jaskaran Singh branch Git URL*: <https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/jaskaran-singh?ref_type=heads>
 * *Group 14 Bhargav branch Git URL*: <https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/Bhargav-Kanodiya?ref_type=heads>
 * *Group 14 Dhrumil branch Git URL*: <https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/dhrumil-gosaliya?ref_type=heads>
 * *Group 14 Raman branch Git URL*: <https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/feature-ramandeepkaur?ref_type=heads>
 * *Group 14 Vishnu branch Git URL*: <https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/vishnu?ref_type=heads>
-* *Group 14 Shreya branch Git URL*: <https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/shreya-kapoor?ref_type=heads >
+* *Group 14 Shreya branch Git URL*: <https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/shreya-kapoor?ref_type=heads>
+* *Group 14 Jaskaran Singh branch Git URL*: <https://git.cs.dal.ca/gosaliya/CSCI-5709-Grp-14/-/tree/jaskaran-singh?ref_type=heads>
 
 
 ## Author
-* [Jaskaran Singh](js356337@dal.ca) - *(Developer)*
 * [Bhargav Kanodiya](bh950065@dal.ca) - *(Developer)*
 * [Dhrumil Gosaliya](dh411197@dal.ca) - *(Developer)*
 * [Ramandeep Kaur](rm661081@dal.ca) - *(Developer)*
 * [Vishnu Narayanbhai Vasita](vs369825@dal.ca) - *(Developer)*
 * [Shreya Kapoor](sh820878@dal.ca) - *(Developer)*
+* [Jaskaran Singh](js356337@dal.ca) - *(Developer)*
 
 ## Deployment
 
