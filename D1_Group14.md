@@ -32,6 +32,7 @@ We created a mirror repository on github from gitlab and deployed on netlify. Co
 
 * [React](https://legacy.reactjs.org/docs/getting-started.html/) - The web framework used
 * [npm](https://docs.npmjs.com//) - Dependency Management
+* [material ui](https://mui.com/material-ui/)
 
 ## Sources Used
 
